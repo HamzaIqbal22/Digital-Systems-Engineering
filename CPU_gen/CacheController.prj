@@ -1,0 +1,4 @@
+vhdl work "DRAMController.vhd"
+vhdl work "CPU_gen.vhd"
+vhdl work "CacheSRAM.vhd"
+vhdl work "CacheController.vhd"

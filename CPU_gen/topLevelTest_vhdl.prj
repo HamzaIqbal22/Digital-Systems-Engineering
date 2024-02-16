@@ -1,0 +1,5 @@
+vhdl work "/home/student2/h6iqbal/coe758/CPU_gen/DRAMController.vhd"
+vhdl work "/home/student2/h6iqbal/coe758/CPU_gen/CPU_gen.vhd"
+vhdl work "/home/student2/h6iqbal/coe758/CPU_gen/CacheSRAM.vhd"
+vhdl work "/home/student2/h6iqbal/coe758/CPU_gen/CacheController.vhd"
+vhdl work "/home/student2/h6iqbal/coe758/CPU_gen/TopLevelTest.vhd"

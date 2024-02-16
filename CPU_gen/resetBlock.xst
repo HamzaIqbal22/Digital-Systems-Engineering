@@ -1,0 +1,5 @@
+set -tmpdir "/home/student2/h6iqbal/coe758/CPU_gen/xst/projnav.tmp"
+set -xsthdpdir "/home/student2/h6iqbal/coe758/CPU_gen/xst"
+elaborate
+-ifn resetBlock.prj
+-ifmt mixed

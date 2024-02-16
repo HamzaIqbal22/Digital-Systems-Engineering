@@ -1,0 +1,12 @@
+# Output products list for <sysIcon>
+sysIcon.asy
+sysIcon.gise
+sysIcon.ngc
+sysIcon.sym
+sysIcon.vhd
+sysIcon.vho
+sysIcon.xco
+sysIcon.xise
+sysIcon_flist.txt
+sysIcon_readme.txt
+sysIcon_xmdf.tcl

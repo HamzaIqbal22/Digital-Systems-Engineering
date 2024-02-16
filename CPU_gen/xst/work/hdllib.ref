@@ -1,0 +1,11 @@
+AR cachesram behavioral /home/student2/h6iqbal/coe758/CPU_gen/CacheSRAM.vhd sub00/vhpl10 1667487975
+AR resetblock behavioral /home/student2/h6iqbal/coe758/CPU_gen/resetBlock.vhd sub00/vhpl04 1665676739
+EN cachecontroller NULL /home/student2/h6iqbal/coe758/CPU_gen/CacheController.vhd sub00/vhpl02 1667487976
+EN sdramcontroller NULL /home/student2/h6iqbal/coe758/CPU_gen/DRAMController.vhd sub00/vhpl07 1667487972
+EN cpu_gen NULL /home/student2/h6iqbal/coe758/CPU_gen/CPU_gen.vhd sub00/vhpl00 1667487970
+AR dramcontroller behavioral /home/student2/h6iqbal/coe758/CPU_gen/DRAMController.vhd sub00/vhpl06 1666278656
+EN cachesram NULL /home/student2/h6iqbal/coe758/CPU_gen/CacheSRAM.vhd sub00/vhpl09 1667487974
+AR cpu_gen behavioral /home/student2/h6iqbal/coe758/CPU_gen/CPU_gen.vhd sub00/vhpl01 1667487971
+AR sdramcontroller behavioral /home/student2/h6iqbal/coe758/CPU_gen/DRAMController.vhd sub00/vhpl08 1667487973
+EN resetblock NULL /home/student2/h6iqbal/coe758/CPU_gen/resetBlock.vhd sub00/vhpl03 1665676738
+EN dramcontroller NULL /home/student2/h6iqbal/coe758/CPU_gen/DRAMController.vhd sub00/vhpl05 1666278655

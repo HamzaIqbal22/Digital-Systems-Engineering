@@ -1,0 +1,13 @@
+# Output products list for <sysIla>
+sysIla.asy
+sysIla.cdc
+sysIla.gise
+sysIla.ngc
+sysIla.sym
+sysIla.vhd
+sysIla.vho
+sysIla.xco
+sysIla.xise
+sysIla_flist.txt
+sysIla_readme.txt
+sysIla_xmdf.tcl
